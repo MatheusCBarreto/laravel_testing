@@ -1,6 +1,6 @@
 <?php
 
-Describe('Test expectation function API', function () {
+describe('Test expectation function API', function () {
     it('tests the toBe() function', function () {
         $value = 10;
         // valida se o valor é 10

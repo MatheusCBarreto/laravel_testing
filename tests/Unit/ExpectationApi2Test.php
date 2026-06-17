@@ -1,6 +1,6 @@
 <?php
 
-Describe('Test Expectation modifiers and chaning', function () {
+describe('Test Expectation modifiers and chaning', function () {
     it('tests the and() modifier', function () {
         $name = "Matheus";
         $surname = "Carvalho";
